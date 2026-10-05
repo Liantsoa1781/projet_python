@@ -1,0 +1,8 @@
+[project]
+name = "ticket"
+version = "0.1.0"
+description = "Projet de gestion de tickets en Python"
+requires-python = ">=3.10"
+dependencies = [
+    "rich"
+]

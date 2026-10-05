@@ -1,1 +1,0 @@
-print("Bienvenue dans mon projet de ticketing !")
